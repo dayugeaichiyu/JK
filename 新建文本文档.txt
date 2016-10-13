@@ -1,0 +1,54 @@
+﻿<div>
+<div id="header" class="module"><h1 style="text-align:center;font-size:35px">Infinito Web Design Studio<h1>
+<p style="text-align:center">Where Awesomeness Is Brought To Life.</p>
+  <hr id="lin"/>
+    <div class="row">
+      <div class="col-md-2 col-md-offset-1">
+    <button class="btn btn-default"><a target="_blank" href="https://twitter.com" style="text-decoration:none">Twitter</a></button>
+        </div>
+      <div class="col-md-2 col-md-offset-1">
+    <button class="btn btn-default "style="float:center"><a target="_blank" href="https://github.com/dayugeaichiyu" style="text-decoration:none">Github</a></button>
+        </div>
+      <div class="col-md-2 col-md-offset-1">
+    <button class="btn btn-default"><a target="_blank" href="http://www.linkedin.com/profile/preview?locale=zh_CN&trk=prof-0-sb-preview-primary-button" style="text-decoration:none">Lingkedin</button>
+        </div>
+      <div class="col-md-2 col-md-offset-1">
+    <button class="btn btn-default"><a target="_blank" href="https://freecodecamp.cn/dayugeaichiyu" style="text-decoration:none">freeCodeCamp</a></button>
+    </div>  
+      </div>
+        </div>        
+<div id="main1" class="module">
+<div class="demo" style="float:left">
+  
+  <h1 id="demo1">Infinito Web Design Studio.</h1>
+ <p id="demo2">I'm a self taught web designer, developer, co-founder and entrepreneur based in Finland.
+I'm currently part of a small web development team in an upcoming start-up, building web and mobile applications.
+My passion is to use technology based </p>
+  </div>
+   <div style="text-align:center;padding-top:100px">
+     <img id="demo3" src="http://ww3.sinaimg.cn/thumb300/9207da97jw1e524dtmfg8j20hs0ogtbj.jpg" alt="图片无法显示"/>
+     </div>
+</div>
+<div id="main2" class="module">
+   <div class="work">
+     <h1 class="work">我的作品集</h1>
+     <img id="work1" src="http://img2.imgtn.bdimg.com/it/u=199327517,926487003&fm=21&gp=0.jpg" onmouseover="mouseover()" onmouseout="mouseout()"/>
+      </div>
+  </div>
+<div id="footer" class="module">
+    <div class="bun1">
+      <div class="bun2">
+    <button class="btn btn-default btn-lg"><a target="_blank" href="https://twitter.com" style="text-decoration:none">Twitter</a></button>
+        </div>
+      <div class="bun2">
+    <button class="btn btn-default btn-lg "style="float:center"><a target="_blank" href="https://github.com/dayugeaichiyu" style="text-decoration:none">Github</a></button>
+        </div>
+      <div class="bun2">
+    <button class="btn btn-default btn-lg"><a target="_blank" href="http://www.linkedin.com/profile/preview?locale=zh_CN&trk=prof-0-sb-preview-primary-button" style="text-decoration:none">Lingkedin</button>
+        </div>
+      <div class="bun2">
+    <button class="btn btn-default btn-lg" id="btn8" onmouseover="mouseov()" onmouseout="mouseou()"><a target="_blank" href="https://freecodecamp.cn/dayugeaichiyu" style="text-decoration:none">freeCodeCamp</a></button>
+    </div>  
+      </div>
+</div>
+  </div>
